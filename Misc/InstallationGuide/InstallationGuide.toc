@@ -1,0 +1,5 @@
+\babel@toc {portuguese}{}
+\contentsline {section}{\numberline {1}Introdução}{1}{section.1}%
+\contentsline {section}{\numberline {2}Hardware}{1}{section.2}%
+\contentsline {section}{\numberline {3}Windows 10}{1}{section.3}%
+\contentsline {section}{\numberline {4}Linux}{1}{section.4}%

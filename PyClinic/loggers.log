@@ -1,0 +1,702 @@
+2021-01-12 19:52:38,344:name:Edit employee sucessfully
+2021-01-12 19:52:51,637:name:An Error Occurred while editing a new employee: <class 'pymysql.err.DataError'>
+2021-01-12 19:55:20,077:name:Edit employee sucessfully
+2021-01-12 19:55:34,953:name:An Error Occurred while editing a employee
+2021-01-13 15:35:44,433:name:Edit employee sucessfully
+2021-01-13 15:35:54,304:name:An Error Occurred while editing a employee
+2021-01-13 15:35:54,304:name:An Error Occurred while editing a employee
+2021-01-13 15:36:36,608:name:Edit employee sucessfully
+2021-01-13 15:36:45,665:name:An Error Occurred while editing a employee: <class 'pymysql.err.DataError'>
+2021-01-13 15:36:45,665:name:An Error Occurred while editing a employee: <class 'pymysql.err.DataError'>
+2021-01-13 15:59:59,243:name:Edit employee sucessfully
+2021-01-13 16:00:47,485:name:Edit employee sucessfully
+2021-01-13 16:04:20,386:name:Edit employee sucessfully
+2021-01-13 16:04:35,696:name:An Error Occurred while editing a employee: <class 'pymysql.err.DataError'>
+2021-01-13 16:04:46,191:name:Edit employee sucessfully
+2021-01-13 16:23:56,906:name:Edit employee sucessfully
+2021-01-13 16:25:42,977:name:Edit employee sucessfully
+2021-01-13 16:25:51,731:name:An Error Occurred while editing a employee: <class 'pymysql.err.DataError'>
+2021-01-13 16:25:59,165:name:Edit employee sucessfully
+2021-01-13 16:31:31,696:name:Edit employee sucessfully
+2021-01-13 16:31:41,205:name:An Error Occurred while editing a employee: <class 'pymysql.err.DataError'>
+2021-01-13 16:31:47,457:name:Edit employee sucessfully
+2021-01-13 16:33:20,957:name:An Error Occurred while editing a employee: <class 'pymysql.err.DataError'>
+2021-01-13 16:33:26,484:name:Edit employee sucessfully
+2021-01-15 23:56:48,136:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-15 23:58:27,944:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:01:42,757:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:04:08,065:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:05:51,323:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:07:37,932:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:08:29,066:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:09:16,710:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:10:52,434:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:11:23,256:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:12:29,670:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:19:25,832:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:19:56,219:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:20:48,748:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:21:17,027:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:21:52,103:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:23:29,654:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:23:43,320:name:An Error Occurred while adding a appointment whose date, 2021-02-25 and utente number, 4 :
+ <class 'AttributeError'> 
+2021-01-16 00:23:53,971:name:An Error Occurred while adding a appointment whose date, 2021-02-24 and utente number, 4 :
+ <class 'AttributeError'> 
+2021-01-16 00:25:35,793:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:25:46,577:name:An Error Occurred while adding a appointment whose date, 2021-01-20 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:25:52,535:name:An Error Occurred while adding a appointment whose date, 2021-01-20 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:27:39,491:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:27:54,666:name:An Error Occurred while adding a appointment whose date, 2021-02-17 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:31:41,394:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:31:55,106:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:31:57,400:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:31:59,826:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:01,591:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:02,971:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:05,440:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:07,700:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:09,425:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:11,752:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:13,667:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:15,699:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:32:17,332:name:An Error Occurred while adding a appointment whose date, 2021-01-25 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:34:17,348:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:35:56,964:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:36:03,946:name:An Error Occurred while adding a appointment whose date, 2021-01-26 and utente number, 4 :
+ <class 'AttributeError'> 
+2021-01-16 00:37:42,395:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:37:49,600:name:An Error Occurred while adding a appointment whose date, PyQt5.QtCore.QDate(2021, 1, 28) and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:38:23,794:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:38:32,006:name:An Error Occurred while adding a appointment whose date, 2021-01-29 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:39:23,607:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:39:35,346:name:An Error Occurred while adding a appointment whose date, 2021-01-20 and utente number, 1 :
+ <class 'AttributeError'> 
+2021-01-16 00:41:02,203:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:42:34,000:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:42:46,586:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 1 
+2021-01-16 00:46:59,853:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:47:09,656:name:Add appointment sucessfully whose date, 2021-01-26 and utente number, 1 
+2021-01-16 00:50:25,359:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:50:37,562:name:Add appointment sucessfully whose date, 2021-01-29 and utente number, 4 
+2021-01-16 00:50:46,675:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 00:50:57,404:name:Add appointment sucessfully whose date, 2021-02-16 and utente number, 4 
+2021-01-16 01:02:09,052:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:05:17,298:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:05:51,419:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:10:37,664:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:11:28,807:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:15:27,757:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:17:34,043:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:19:07,574:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:20:27,776:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:21:24,386:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:22:28,597:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:29:53,229:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:31:27,775:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:36:51,617:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:37:31,695:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:38:41,329:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:45:48,276:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:48:31,624:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:49:58,822:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:51:29,623:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:52:05,757:name:Add employee sucessfully whose nr: 35 
+2021-01-16 01:55:19,094:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:55:42,403:name:Add patient sucessfully whose nr: 13 
+2021-01-16 01:57:05,888:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 01:57:55,057:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 02:08:29,216:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 02:08:48,178:name:Add appointment sucessfully whose date, 2021-02-17 and utente number, 13 
+2021-01-16 02:08:55,181:name:Edit patient sucessfully whose nr: 13 
+2021-01-16 11:29:48,184:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 11:30:17,750:name:Add patient sucessfully whose nr: 32 
+2021-01-16 11:30:33,134:name:Add appointment sucessfully whose date, 2021-02-11 and utente number, 32 
+2021-01-16 11:39:26,624:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 11:40:07,032:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 11:41:16,614:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 11:41:41,353:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 11:43:54,070:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-16 11:46:03,675:name:Add patient sucessfully whose nr: 14 
+2021-01-16 11:46:20,136:name:Add appointment sucessfully whose date, 2021-01-22 and utente number, 14 
+2021-01-16 15:18:03,607:name:Change email sucessfully whose nr: 54 
+2021-01-16 15:18:23,041:name:Change password sucessfully whose nr: 54 
+2021-01-16 15:20:06,694:name:Change email sucessfully whose nr: 54 
+2021-01-16 15:20:16,124:name:Change password sucessfully whose nr: 54 
+2021-01-16 15:20:27,809:name:Password Incorrect
+2021-01-17 11:25:53,618:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:27:57,465:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:33:25,077:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:39:21,417:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:39:48,551:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:40:15,177:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:41:11,391:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:42:22,452:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:44:44,778:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:51:52,415:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:52:22,830:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 11:53:02,272:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 12:04:55,066:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 12:04:55,066:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 19:37:01,140:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 19:37:35,018:name:Add employee sucessfully whose nr: 36 
+2021-01-17 19:38:56,223:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 19:39:35,853:name:Add employee sucessfully whose nr: 37 
+2021-01-17 19:39:56,854:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 19:39:56,854:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 23:19:10,414:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-17 23:19:40,691:name:Add employee sucessfully whose nr: 38 
+2021-01-18 18:52:18,129:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-18 18:52:18,129:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-18 18:52:27,604:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 13 :
+ <class 'pymysql.err.DataError'> 
+2021-01-18 18:52:27,604:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 13 :
+ <class 'pymysql.err.DataError'> 
+2021-01-18 18:52:49,499:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-18 18:52:49,499:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-18 18:52:59,281:name:An Error Occurred while adding a appointment whose date, 2021-02-26 and utente number, 4 :
+ <class 'pymysql.err.DataError'> 
+2021-01-18 18:52:59,281:name:An Error Occurred while adding a appointment whose date, 2021-02-26 and utente number, 4 :
+ <class 'pymysql.err.DataError'> 
+2021-01-18 18:53:11,882:name:An Error Occurred while adding a appointment whose date, 2021-02-26 and utente number, 4 :
+ <class 'pymysql.err.DataError'> 
+2021-01-18 18:53:11,882:name:An Error Occurred while adding a appointment whose date, 2021-02-26 and utente number, 4 :
+ <class 'pymysql.err.DataError'> 
+2021-01-18 18:55:09,399:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-18 18:55:09,399:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-18 18:55:17,091:name:An Error Occurred while adding a appointment whose date, 2021-02-19 and utente number, 1 :
+ <class 'pymysql.err.DataError'> 
+2021-01-18 18:55:17,091:name:An Error Occurred while adding a appointment whose date, 2021-02-19 and utente number, 1 :
+ <class 'pymysql.err.DataError'> 
+2021-01-18 18:56:21,221:name:An Error Occurred while adding a appointment whose date, 2021-02-19 and utente number, 1 :
+ <class 'pymysql.err.IntegrityError'> 
+2021-01-18 18:56:21,221:name:An Error Occurred while adding a appointment whose date, 2021-02-19 and utente number, 1 :
+ <class 'pymysql.err.IntegrityError'> 
+2021-01-18 18:56:54,370:name:Add appointment sucessfully whose date, 2021-04-15 and utente number, 1 
+2021-01-18 18:56:54,370:name:Add appointment sucessfully whose date, 2021-04-15 and utente number, 1 
+2021-01-18 21:35:35,177:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:35,177:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:35,177:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:37,792:name:Password Incorrect
+2021-01-18 21:35:37,792:name:Password Incorrect
+2021-01-18 21:35:37,792:name:Password Incorrect
+2021-01-18 21:35:47,538:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:47,538:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:47,538:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,531:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,531:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,531:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,703:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,703:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,703:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,847:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,847:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,847:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,963:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,963:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:48,963:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:49,674:name:Password Incorrect
+2021-01-18 21:35:49,674:name:Password Incorrect
+2021-01-18 21:35:49,674:name:Password Incorrect
+2021-01-18 21:35:51,207:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:51,207:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:51,207:name:Change email sucessfully whose nr: 38 
+2021-01-18 
+21:35:51,366:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:51,366:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:51,366:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:53,979:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:53,979:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:35:53,979:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:36:54,888:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:36:54,888:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:36:54,888:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:37:01,211:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:37:01,211:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:37:01,211:name:Change email sucessfully whose nr: 38 
+2021-01-18 21:55:09,770:name:Add appointment sucessfully whose date, 2021-02-16 and utente number, 4 
+2021-01-18 21:55:09,770:name:Add appointment sucessfully whose date, 2021-02-16 and utente number, 4 
+2021-01-18 21:55:09,770:name:Add appointment sucessfully whose date, 2021-02-16 and utente number, 4 
+2021-01-18 22:19:49,640:name:Change email sucessfully whose nr: 37 
+2021-01-18 22:19:49,640:name:Change email sucessfully whose nr: 37 
+2021-01-18 22:19:49,640:name:Change email sucessfully whose nr: 37 
+2021-01-19 13:56:04,064:name:Add exam file sucessfully
+2021-01-19 13:56:04,064:name:Add exam file sucessfully
+2021-01-19 13:56:04,064:name:Add exam file sucessfully
+2021-01-19 13:56:04,064:name:Add exam file sucessfully
+2021-01-19 13:56:14,972:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 13:56:14,972:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 13:56:14,972:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 13:56:14,972:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 14:11:15,573:name:Add exam file sucessfully
+2021-01-19 14:11:15,573:name:Add exam file sucessfully
+2021-01-19 14:11:15,573:name:Add exam file sucessfully
+2021-01-19 14:11:15,573:name:Add exam file sucessfully
+2021-01-19 14:11:26,965:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 14:11:26,965:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 14:11:26,965:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 14:11:26,965:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 16:56:24,746:name:Add exam file sucessfully
+2021-01-19 16:56:24,746:name:Add exam file sucessfully
+2021-01-19 16:56:24,746:name:Add exam file sucessfully
+2021-01-19 16:56:24,746:name:Add exam file sucessfully
+2021-01-19 16:56:32,685:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 16:56:32,685:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 16:56:32,685:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 16:56:32,685:name:Add appointment sucessfully whose date, 2021-01-19 and utente number, 1 
+2021-01-19 17:31:39,453:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:31:39,453:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:31:39,453:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:31:39,453:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:34:13,551:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:34:13,551:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:34:13,551:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:34:13,551:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:39:41,779:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:39:41,779:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:39:41,779:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:39:41,779:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:43:22,002:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:43:22,002:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:43:22,002:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 17:43:22,002:name:Exam save in /home/simon/Desktop/exam.pdf
+2021-01-19 19:17:56,964:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-19 19:18:55,199:name:Add patient sucessfully whose nr: 123456789 
+2021-01-19 19:20:30,086:name:Add employee sucessfully whose nr: 37 
+2021-01-19 19:51:38,829:name:Add employee sucessfully whose nr: 41 
+2021-01-19 19:51:38,829:name:Add employee sucessfully whose nr: 41 
+2021-01-19 19:51:38,829:name:Add employee sucessfully whose nr: 41 
+2021-01-19 19:51:38,829:name:Add employee sucessfully whose nr: 41 2021-01-21 00:25:13,779:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:25:55,924:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:28:15,085:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:28:54,926:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:32:44,633:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:33:16,760:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:34:09,367:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:34:45,693:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:35:48,601:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:36:24,685:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:38:03,668:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:38:21,756:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:38:52,620:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:39:09,652:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:39:59,402:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:40:15,822:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:44:44,410:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:45:00,623:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:46:39,627:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:46:56,990:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:48:03,225:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:49:40,499:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:50:56,966:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:51:09,052:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:52:05,958:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:52:17,911:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:53:55,155:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:54:09,602:name:An Error Occurred while adding a new employee: <class 'BaseException'>
+2021-01-21 00:55:19,305:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:55:43,247:name:An Error Occurred while adding a new employee: <class 'Exception'>
+2021-01-21 00:58:39,487:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 00:59:12,135:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 01:00:58,311:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 01:01:11,491:name:Add employee sucessfully whose nr: 38 
+2021-01-21 01:06:09,742:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 01:24:45,312:name:An Error Occurred while change email whose nr, 38 :
+ <class 'BaseException'>
+2021-01-21 01:24:45,312:name:An Error Occurred while change email whose nr, 38 :
+ <class 'BaseException'>
+2021-01-21 01:24:45,312:name:An Error Occurred while change email whose nr, 38 :
+ <class 'BaseException'>
+2021-01-21 01:25:59,675:name:Add employee sucessfully whose nr: 39 
+2021-01-21 01:25:59,675:name:Add employee sucessfully whose nr: 39 
+2021-01-21 01:25:59,675:name:Add employee sucessfully whose nr: 39 
+2021-01-21 01:27:50,156:name:Change email sucessfully whose nr: 39 
+2021-01-21 01:27:50,156:name:Change email sucessfully whose nr: 39 
+2021-01-21 01:27:50,156:name:Change email sucessfully whose nr: 39 
+2021-01-21 01:27:58,029:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:27:58,029:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:27:58,029:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:31:34,220:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:31:34,220:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:31:34,220:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:32:17,807:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:32:17,807:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:32:17,807:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:32:51,781:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:32:51,781:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:32:51,781:name:An Error Occurred while change email whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:35:55,013:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:35:55,013:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:35:55,013:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:37:45,765:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:37:45,765:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:37:45,765:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:37:50,066:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:37:50,066:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:37:50,066:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:38:38,871:name:Password Incorrect
+2021-01-21 01:38:38,871:name:Password Incorrect
+2021-01-21 01:38:38,871:name:Password Incorrect
+2021-01-21 01:39:39,040:name:Change password sucessfully whose nr: 39 
+2021-01-21 01:39:39,040:name:Change password sucessfully whose nr: 39 
+2021-01-21 01:39:39,040:name:Change password sucessfully whose nr: 39 
+2021-01-21 01:45:51,278:name:Enter the password again
+2021-01-21 01:45:51,278:name:Enter the password again
+2021-01-21 01:45:51,278:name:Enter the password again
+2021-01-21 01:47:15,692:name:Enter the password again
+2021-01-21 01:47:15,692:name:Enter the password again
+2021-01-21 01:47:15,692:name:Enter the password again
+2021-01-21 01:47:45,673:name:Enter the password again
+2021-01-21 01:47:45,673:name:Enter the password again
+2021-01-21 01:47:45,673:name:Enter the password again
+2021-01-21 01:50:16,937:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:50:16,937:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:50:16,937:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:51:00,637:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:51:00,637:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:51:00,637:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:51:26,333:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:51:26,333:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:51:26,333:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:52:45,623:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:52:45,623:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:52:45,623:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:53:38,896:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:53:38,896:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:53:38,896:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:54:40,749:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:54:40,749:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:54:40,749:name:An Error Occurred while changing password whose nr, 39 :
+ <class 'BaseException'>
+2021-01-21 01:56:52,003:name:Change password sucessfully whose nr: 39 
+2021-01-21 01:56:52,003:name:Change password sucessfully whose nr: 39 
+2021-01-21 01:56:52,003:name:Change password sucessfully whose nr: 39 
+2021-01-21 02:04:38,592:name:Add employee sucessfully whose nr: 40 
+2021-01-21 02:04:38,592:name:Add employee sucessfully whose nr: 40 
+2021-01-21 02:04:38,592:name:Add employee sucessfully whose nr: 40 
+2021-01-21 02:05:08,793:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:05:08,793:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:05:08,793:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:06:16,072:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:06:16,072:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:06:16,072:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:06:51,228:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:06:51,228:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:06:51,228:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:08:21,862:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:08:21,862:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:08:21,862:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'BaseException'>
+2021-01-21 02:10:39,107:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'Exception'>
+2021-01-21 02:10:39,107:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'Exception'>
+2021-01-21 02:10:39,107:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'Exception'>
+2021-01-21 02:13:45,069:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'Exception'>
+2021-01-21 02:13:45,069:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'Exception'>
+2021-01-21 02:13:45,069:name:An Error Occurred while changing password whose nr, 40 :
+ <class 'Exception'>
+2021-01-21 02:14:29,538:name:Change password sucessfully whose nr: 40 
+2021-01-21 02:14:29,538:name:Change password sucessfully whose nr: 40 
+2021-01-21 02:14:29,538:name:Change password sucessfully whose nr: 40 
+2021-01-21 02:14:53,378:name:Password Incorrect
+2021-01-21 02:14:53,378:name:Password Incorrect
+2021-01-21 02:14:53,378:name:Password Incorrect
+2021-01-21 02:15:00,223:name:Enter the password again
+2021-01-21 02:15:00,223:name:Enter the password again
+2021-01-21 02:15:00,223:name:Enter the password again
+2021-01-21 02:15:04,013:name:Change password sucessfully whose nr: 40 
+2021-01-21 02:15:04,013:name:Change password sucessfully whose nr: 40 
+2021-01-21 02:15:04,013:name:Change password sucessfully whose nr: 40 
+2021-01-21 02:21:10,846:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 02:22:00,165:name:An Error Occurred while adding a new employee: <class 'Exception'>
+2021-01-21 02:23:21,135:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 02:24:04,635:name:Add employee sucessfully whose nr: 41 
+2021-01-21 02:32:46,373:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 02:34:09,202:name:An Error Occurred while search profile: <class 'TypeError'> 
+2021-01-21 02:34:45,680:name:Add employee sucessfully whose nr: 42 
+2021-01-21 17:44:24,025:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 201 
+2021-01-21 17:44:24,025:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 201 
+2021-01-21 17:44:24,025:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 201 
+2021-01-21 21:31:48,455:name:Please select a row in the table!
+2021-01-21 21:31:48,455:name:Please select a row in the table!
+2021-01-21 21:31:48,455:name:Please select a row in the table!
+2021-01-21 21:32:24,155:name:Edit patient sucessfully whose nr: 1233 
+2021-01-21 21:32:24,155:name:Edit patient sucessfully whose nr: 1233 
+2021-01-21 21:32:24,155:name:Edit patient sucessfully whose nr: 1233 
+2021-01-21 21:32:31,580:name:Edit patient sucessfully whose nr: 1233 
+2021-01-21 21:32:31,580:name:Edit patient sucessfully whose nr: 1233 
+2021-01-21 21:32:31,580:name:Edit patient sucessfully whose nr: 1233 
+2021-01-22 10:50:09,291:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:09,291:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:09,291:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:16,387:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:16,387:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:16,387:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:29,053:name:An Error Occurred while adding a appointment whose date, 2021-02-17 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:29,053:name:An Error Occurred while adding a appointment whose date, 2021-02-17 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:29,053:name:An Error Occurred while adding a appointment whose date, 2021-02-17 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:41,741:name:An Error Occurred while adding a appointment whose date, 2021-02-18 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:41,741:name:An Error Occurred while adding a appointment whose date, 2021-02-18 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:41,741:name:An Error Occurred while adding a appointment whose date, 2021-02-18 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:44,449:name:An Error Occurred while adding a appointment whose date, 2021-02-15 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:44,449:name:An Error Occurred while adding a appointment whose date, 2021-02-15 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:50:44,449:name:An Error Occurred while adding a appointment whose date, 2021-02-15 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:51:54,718:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:51:54,718:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:51:54,718:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number, 1233 :
+ <class 'BaseException'> 
+2021-01-22 10:52:24,559:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:52:24,559:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:52:24,559:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:52:29,596:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:52:29,596:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:52:29,596:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:53:27,968:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:53:27,968:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:53:27,968:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:53:31,471:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:53:31,471:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:53:31,471:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:54:31,522:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:54:31,522:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:54:31,522:name:Only Doctors can have appointments to their name: Change employee number
+2021-01-22 10:54:34,397:name:Add appointment sucessfully whose date, 2021-01-26 and utente number, 1233 
+2021-01-22 10:54:34,397:name:Add appointment sucessfully whose date, 2021-01-26 and utente number, 1233 
+2021-01-22 10:54:34,397:name:Add appointment sucessfully whose date, 2021-01-26 and utente number, 1233 
+2021-01-22 10:55:12,535:name:It is not available at this time for the appointment!
+2021-01-22 10:55:12,535:name:It is not available at this time for the appointment!
+2021-01-22 10:55:12,535:name:It is not available at this time for the appointment!
+2021-01-22 10:55:18,780:name:An Error Occurred while adding a appointment whose date, 2021-02-23 and utente number,  :
+ <class 'BaseException'> 
+2021-01-22 10:55:18,780:name:An Error Occurred while adding a appointment whose date, 2021-02-23 and utente number,  :
+ <class 'BaseException'> 
+2021-01-22 10:55:18,780:name:An Error Occurred while adding a appointment whose date, 2021-02-23 and utente number,  :
+ <class 'BaseException'> 
+2021-01-22 10:55:34,218:name:Add appointment sucessfully whose date, 2021-02-23 and utente number, 1233 
+2021-01-22 10:55:34,218:name:Add appointment sucessfully whose date, 2021-02-23 and utente number, 1233 
+2021-01-22 10:55:34,218:name:Add appointment sucessfully whose date, 2021-02-23 and utente number, 1233 
+2021-01-22 10:56:14,857:name:Add appointment sucessfully whose date, 2021-02-03 and utente number, 1233 
+2021-01-22 10:56:14,857:name:Add appointment sucessfully whose date, 2021-02-03 and utente number, 1233 
+2021-01-22 10:56:14,857:name:Add appointment sucessfully whose date, 2021-02-03 and utente number, 1233 
+2021-01-22 11:05:42,396:name:Please select a row in the table!
+2021-01-22 11:05:42,396:name:Please select a row in the table!
+2021-01-22 11:05:42,396:name:Please select a row in the table!
+2021-01-22 16:24:18,323:name:Please select a row in the table!
+2021-01-22 16:24:18,323:name:Please select a row in the table!
+2021-01-22 16:24:18,323:name:Please select a row in the table!
+2021-01-22 16:26:20,806:name:Please select a row in the table!
+2021-01-22 16:26:20,806:name:Please select a row in the table!
+2021-01-22 16:26:20,806:name:Please select a row in the table!
+2021-01-22 19:17:12,577:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:17:12,577:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:17:12,577:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:17:16,455:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:17:16,455:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:17:16,455:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:36,076:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:36,076:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:36,076:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:37,304:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:37,304:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:37,304:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:38,749:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:38,749:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:18:38,749:name:An Error Occurred while search a exam :
+ <class 'BaseException'>
+2021-01-22 19:19:29,301:name:An Error Occurred while search a exam <class 'BaseException'> 
+ 
+2021-01-22 19:19:29,301:name:An Error Occurred while search a exam <class 'BaseException'> 
+ 
+2021-01-22 19:19:29,301:name:An Error Occurred while search a exam <class 'BaseException'> 
+ 
+2021-01-23 00:11:37,677:name:Add appointment sucessfully whose date, 2021-01-29 and utente number, 1233 
+2021-01-23 00:11:37,677:name:Add appointment sucessfully whose date, 2021-01-29 and utente number, 1233 
+2021-01-23 00:11:37,677:name:Add appointment sucessfully whose date, 2021-01-29 and utente number, 1233 
+2021-01-23 00:15:12,129:name:Edit patient sucessfully whose nr: 123 
+2021-01-23 00:15:12,129:name:Edit patient sucessfully whose nr: 123 
+2021-01-23 00:15:12,129:name:Edit patient sucessfully whose nr: 123 
+2021-01-23 00:15:47,460:name:Edit patient sucessfully whose nr: 1233 
+2021-01-23 00:15:47,460:name:Edit patient sucessfully whose nr: 1233 
+2021-01-23 00:15:47,460:name:Edit patient sucessfully whose nr: 1233 
+2021-01-23 00:16:54,345:name:Add appointment sucessfully whose date, 2021-02-17 and utente number, 1233 
+2021-01-23 00:16:54,345:name:Add appointment sucessfully whose date, 2021-02-17 and utente number, 1233 
+2021-01-23 00:16:54,345:name:Add appointment sucessfully whose date, 2021-02-17 and utente number, 1233 
+2021-01-23 00:17:58,077:name:An Error Occurred while edit a patient whose nr, 123 :
+ <class 'BaseException'>
+2021-01-23 00:17:58,077:name:An Error Occurred while edit a patient whose nr, 123 :
+ <class 'BaseException'>
+2021-01-23 00:17:58,077:name:An Error Occurred while edit a patient whose nr, 123 :
+ <class 'BaseException'>
+2021-01-23 00:18:43,687:name:Add patient sucessfully whose nr: 231 
+2021-01-23 00:18:43,687:name:Add patient sucessfully whose nr: 231 
+2021-01-23 00:18:43,687:name:Add patient sucessfully whose nr: 231 
+2021-01-23 00:18:50,059:name:Delete patient sucessfully whose nr: 1233 
+2021-01-23 00:18:50,059:name:Delete patient sucessfully whose nr: 1233 
+2021-01-23 00:18:50,059:name:Delete patient sucessfully whose nr: 1233 
+2021-01-23 00:18:54,542:name:Delete patient sucessfully whose nr: 123 
+2021-01-23 00:18:54,542:name:Delete patient sucessfully whose nr: 123 
+2021-01-23 00:18:54,542:name:Delete patient sucessfully whose nr: 123 
+2021-01-23 00:19:03,824:name:Add appointment sucessfully whose date, 2021-01-29 and utente number, 231 
+2021-01-23 00:19:03,824:name:Add appointment sucessfully whose date, 2021-01-29 and utente number, 231 
+2021-01-23 00:19:03,824:name:Add appointment sucessfully whose date, 2021-01-29 and utente number, 231 
+2021-01-23 00:19:17,448:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 231 
+2021-01-23 00:19:17,448:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 231 
+2021-01-23 00:19:17,448:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 231 
+2021-01-23 00:20:18,459:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:18,459:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:18,459:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:20,495:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:20,495:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:20,495:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:22,092:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:22,092:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:22,092:name:An Error Occurred while adding a appointment whose date, 2021-01-23 and utente number, 231 :
+ <class 'BaseException'> 
+2021-01-23 00:20:26,763:name:Add appointment sucessfully whose date, 2021-01-23 and utente number, 231 
+2021-01-23 00:20:26,763:name:Add appointment sucessfully whose date, 2021-01-23 and utente number, 231 
+2021-01-23 00:20:26,763:name:Add appointment sucessfully whose date, 2021-01-23 and utente number, 231 
+2021-01-23 12:14:20,262:name:Tem de selecionar uma consulta para eliminar!
+2021-01-23 12:14:20,262:name:Tem de selecionar uma consulta para eliminar!
+2021-01-23 12:14:20,262:name:Tem de selecionar uma consulta para eliminar!
+2021-01-23 12:14:20,262:name:Tem de selecionar uma consulta para eliminar!
+2021-01-23 12:15:25,047:name:Add appointment sucessfully whose date, 2021-01-26 and utente number, 231 
+2021-01-23 12:15:25,047:name:Add appointment sucessfully whose date, 2021-01-26 and utente number, 231 
+2021-01-23 12:15:25,047:name:Add appointment sucessfully whose date, 2021-01-26 and utente number, 231 
+2021-01-23 12:15:25,047:name:Add appointment sucessfully whose date, 2021-01-26 and utente number, 231 
+2021-01-23 12:15:27,847:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number,  :
+ 'NoneType' object is not subscriptable 
+2021-01-23 12:15:27,847:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number,  :
+ 'NoneType' object is not subscriptable 
+2021-01-23 12:15:27,847:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number,  :
+ 'NoneType' object is not subscriptable 
+2021-01-23 12:15:27,847:name:An Error Occurred while adding a appointment whose date, 2021-01-28 and utente number,  :
+ 'NoneType' object is not subscriptable 
+2021-01-23 12:15:38,776:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 231 
+2021-01-23 12:15:38,776:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 231 
+2021-01-23 12:15:38,776:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 231 
+2021-01-23 12:15:38,776:name:Add appointment sucessfully whose date, 2021-01-28 and utente number, 231 
+2021-01-23 12:15:53,877:name:Tem de selecionar uma consulta para eliminar!
+2021-01-23 12:15:53,877:name:Tem de selecionar uma consulta para eliminar!
+2021-01-23 12:15:53,877:name:Tem de selecionar uma consulta para eliminar!
+2021-01-23 12:15:53,877:name:Tem de selecionar uma consulta para eliminar!
+2021-01-23 17:48:09,030:name:Selecione Consulta para passar justificação!
+2021-01-23 17:48:09,030:name:Selecione Consulta para passar justificação!
+2021-01-23 17:48:09,030:name:Selecione Consulta para passar justificação!
+2021-01-23 17:48:09,030:name:Selecione Consulta para passar justificação!
+2021-01-23 20:25:33,243:func:Não pode desmarcar Consultas que já aconteceram!
+2021-01-23 20:26:13,621:admin:Não pode desmarcar Consultas que já aconteceram!
+2021-01-23 20:49:12,387:admin:The patient already has an appointment for this day!
+2021-01-23 20:49:15,874:admin:The patient already has an appointment for this day!
+2021-01-23 20:49:15,874:admin:The patient already has an appointment for this day!
+2021-01-23 20:49:20,653:admin:Add appointment sucessfully whose date, 2021-02-08 and utente number, 1 
+2021-01-23 20:49:20,653:admin:Add appointment sucessfully whose date, 2021-02-08 and utente number, 1 
+2021-01-23 20:49:20,653:admin:Add appointment sucessfully whose date, 2021-02-08 and utente number, 1 

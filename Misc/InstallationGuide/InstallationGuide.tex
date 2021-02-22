@@ -1,0 +1,123 @@
+\documentclass[11pt,a4paper,twoside]{article}
+\usepackage[portuguese]{babel}
+\usepackage{graphicx}  		%% display images
+\usepackage{float}			%% make graphics float in place
+\usepackage{indentfirst}
+\usepackage{hyphenat}
+\usepackage{xcolor}
+\usepackage{subcaption}		%% allows for subgigures
+\usepackage{listings} 		%% for listing code
+\usepackage[top=2.50cm, bottom=2.50cm,left=2.50cm, right=2.50cm]{geometry} % margens
+\usepackage[colorlinks=true,linkcolor=black,urlcolor=black,bookmarksopen=true]{hyperref} %% Make hyperlinks in index
+\usepackage{bookmark} 		% Bookmarks for pdf file
+\renewcommand{\baselinestretch}{1.2} 
+\usepackage{fancyhdr} 		% creates fancy footers and headers
+\pagestyle{fancy}
+\lfoot{{\footnotesize Tecnologias de Informação}}
+\rfoot{{\footnotesize ESTGA}}
+\rhead{Projecto Temático em Desenvolvimento de Aplicações}
+\lhead{}
+\usepackage{listings}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstset{style=mystyle}
+
+% Title Page
+\title{}
+\author{}
+
+
+\begin{document}
+
+\begin{titlepage}
+	\centering
+	\vfill
+	\includegraphics[width=7cm]{image/ESTGA} % also works with logo.pdf
+	\vfill
+	
+	{\bfseries\Large
+		Projeto temático em Desenvolvimento de Aplicações\\
+		PyClinic - Guia Instalação \\
+		\vskip2cm
+		%A. Uthor\\
+	}    
+	
+	\vfill
+	\textbf{Grupo 5}
+	
+	António Bento (97737)
+	
+	Diogo Matos (98017)
+	
+	Ivan Xavier (92441)
+	
+	Maykol Santos (74079)
+	
+	Ricardo Fernandes (49880)
+	
+	Simão Julião (98045)
+	\vfill
+\end{titlepage}
+
+
+\section{Introdução}
+\pagenumbering{arabic}
+O presente documento explica sucintamente como instalar e iniciar a aplicação PyClinic, tanto em Windows (Secção 4) como em Linux (Secção 5).
+\section{Hardware}
+Em termos de hardware, as especificações mínimas do PyClinic são as seguintes:
+\begin{itemize}
+\item 4GB de RAM;
+\item Processador x86 criado a partir de 2010;
+\end{itemize}
+
+\section{Software}
+Para a utilização da aplicação PyClinic, os requisitos de software são os seguintes:
+\begin{itemize}
+	\item Sistema Operativo de 64 bits;
+	\item Python 3.8 para Linux ou Python 3.9 em Windows 10;
+\end{itemize}
+
+
+\section{Windows 10}
+
+Para utilizar a aplicação PyClinic em Windows 10, apenas necessita de aceder ao ficheiro (.zip), extraindo toda a sua informação para o seu computador. Após a sua extração, necessita apenas de iniciar o ficheiro PyClinic.exe.
+
+Para facilitar o uso no seu computador, pode criar um atalho apenas do executável para o seu ambiente de trabalho. A partir de agora poderá utilizar o PyClinic!
+
+\section{Linux}
+
+Para utilizar a aplicação PyClinic em Linux, necessita de aceder ao ficheiro (.tar.xz), extraindo toda a sua informação para o seu computador. Após a extração, necessitará de utilizar a consola do Linux, na pasta extraída e utilizar o comando:
+%\usepackage{listings}
+\begin{lstlisting}[language=bash]
+	$ chmod +x PyClinic.sh
+\end{lstlisting}
+podendo de seguida fazer duplo clique na aplicação para a iniciar. A partir de agora poderá utilizar o PyClinic!
+
+
+\end{document}          
+
+
+

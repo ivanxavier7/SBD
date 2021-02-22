@@ -1,0 +1,59 @@
+@proceedings{KukMilSpaGoc19,
+	author = {Kuk, Kristijan and Mili{\'c}, Petar and Spalevi{\'c}, Petar and Goci{\'c}, Milan},
+	location = {Portoro{\v z}, Slovenia},
+	month = sep,
+	organization = {Electrotechnical and Computer Science Conference},
+	pages = {243--246},
+	title = {Algorithm design in Python for cybersecurity},
+	year = {2019}
+}
+
+@article{Redondo_2015,
+	author = {Redondo, Jose Manuel and Ortin, Francisco},
+	doi = {10.1109/ms.2014.104},
+	journal = {{IEEE} Software},
+	month = {jul},
+	number = {4},
+	pages = {76--84},
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	title = {A Comprehensive Evaluation of Common Python Implementations},
+	url = {https://doi.org/10.1109%2Fms.2014.104},
+	volume = {32},
+	year = 2015
+}
+
+@article{khwaja+murtaza+ahmed2020,
+	abstract = {Abstract Pervasiveness of Internet-based applications and computing devices has increased cybersecurity threats for wide range of users. Studies have shown that application security flaws have their roots in programming languages used for application development. Some vulnerabilities are due to programmer's negligence and others are due to the vulnerabilities present in the programming languages and their libraries. Developers may not be aware of the existing flaws in the programming languages and do not have time to take necessary measures as they develop applications. To cope with the challenge, this article proposes a security feature framework for programming languages to understand various exploitations and possible mitigations in programming languages. This security feature framework can be used to evaluate existing programming languages for potential vulnerabilities, level of security support, and the language features needed to mitigate these vulnerabilities. Moreover, language designers may use this framework as a guide to ensure that the language being designed has necessary and sufficient security feature set. The proposed security feature framework is then applied to several popular programming languages to evaluate the level of security feature coverage and gaps in these languages along with some recommendations on how to address these gaps.},
+	author = {Khwaja, Amir A. and Murtaza, Muniba and Ahmed, Hafiz F.},
+	doi = {10.1002/spy2.95},
+	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/spy2.95},
+	journal = {Security and Privacy},
+	keywords = {programming languages, security evaluation of programming languages, security features, security framework},
+	number = {1},
+	pages = {e95},
+	title = {A security feature framework for programming languages to minimize application layer vulnerabilities},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.95},
+	volume = {3},
+	year = {2020}
+}
+
+@article{Monteiro2019,
+author = {Monteiro, Felipe R. and Garcia, Mário A. P. and Cordeiro, Lucas C. and de Lima Filho, Eddie B.},
+title = {Bounded model checking of C++ programs based on the Qt cross-platform framework},
+journal = {Software Testing, Verification and Reliability},
+volume = {27},
+number = {3},
+pages = {e1632},
+keywords = {bounded model checking, formal verification, Qt framework, software engineering},
+doi = {https://doi.org/10.1002/stvr.1632},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.1632},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/stvr.1632},
+note = {e1632 stvr.1632},
+abstract = {Summary The software development process for embedded systems is getting faster and faster, which generally incurs an increase in the associated complexity. As a consequence, technology companies tend to invest in fast and automatic verification mechanisms, to create robust systems and reduce product recall rates. In addition, further development-time reduction and system robustness can be achieved through cross-platform frameworks, such as Qt, which favor the reliable port of software stacks to different devices. Based on that, the present paper proposes a simplified version of the Qt framework, which is integrated into a checker based on satisfiability modulo theories (SMT), known as the Efficient SMT-based Context-Bounded Model Checker, for verifying actual Qt-based applications, with a success rate of 89\%, for the developed benchmark suite. Furthermore, the simplified version of the Qt framework, named as Qt Operational Model, was also evaluated using other state-of-the-art verifiers for C++ programs. In fact, Qt Operational Model was combined with 2 different verification approaches: explicit-state model checking and also symbolic (bounded) model checking, during the experimental evaluation, which highlights its flexibility. The proposed methodology is the first one to formally verify Qt-based applications, which has the potential to devise new directions for software verification of portable code.},
+year = {2017}
+}
+
+
+
+
+

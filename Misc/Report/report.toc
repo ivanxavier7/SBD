@@ -1,0 +1,68 @@
+\babel@toc {portuguese}{}
+\contentsline {chapter}{\numberline {1}Introdução}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Visão geral do sistema }{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Cliente}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objetivos}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Desafios de Crescimento Profissional}{2}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Modelo de requisitos}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Requisitos funcionais }{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Restrições e requisitos não funcionais }{4}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Requisitos de interface e facilidade de uso}{4}{subsection.2.2.1}%
+\contentsline {paragraph}{}{4}{section*.3}%
+\contentsline {subsection}{\numberline {2.2.2}Requisitos de desempenho }{5}{subsection.2.2.2}%
+\contentsline {paragraph}{}{5}{section*.4}%
+\contentsline {subsection}{\numberline {2.2.3}Requisitos de segurança e integridade dos dados}{5}{subsection.2.2.3}%
+\contentsline {paragraph}{}{5}{section*.5}%
+\contentsline {subsection}{\numberline {2.2.4}Requisitos de interface com sistemas externos e com ambientes de execução }{5}{subsection.2.2.4}%
+\contentsline {paragraph}{}{5}{section*.6}%
+\contentsline {subsection}{\numberline {2.2.5}Normas e regulamentação específicas aplicáveis}{5}{subsection.2.2.5}%
+\contentsline {paragraph}{}{5}{section*.7}%
+\contentsline {subsection}{\numberline {2.2.6}Outros requisitos não funcionais }{5}{subsection.2.2.6}%
+\contentsline {paragraph}{}{5}{section*.8}%
+\contentsline {section}{\numberline {2.3}Requisitos de hardware }{6}{section.2.3}%
+\contentsline {paragraph}{}{6}{section*.9}%
+\contentsline {chapter}{\numberline {3}Modelo de Casos de utilização}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Visão geral}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Atores}{7}{section.3.2}%
+\contentsline {paragraph}{}{7}{section*.11}%
+\contentsline {section}{\numberline {3.3}Descrição dos casos de utilização }{8}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Validar Credenciais }{8}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Registar profissional }{9}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Introduzir novo utente}{11}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Alterar ficha do utente}{11}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Agendamento de consultas }{12}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Passar justificação}{13}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.3.7}Criar receita para o utente }{14}{subsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.3.8}Alterar relatório médico do utente }{14}{subsection.3.3.8}%
+\contentsline {subsection}{\numberline {3.3.9}Consultar relatório médico do utente }{15}{subsection.3.3.9}%
+\contentsline {subsection}{\numberline {3.3.10}Consultar ficha do utente}{16}{subsection.3.3.10}%
+\contentsline {subsection}{\numberline {3.3.11}Adicionar exames}{17}{subsection.3.3.11}%
+\contentsline {subsection}{\numberline {3.3.12}Administrar medicação}{18}{subsection.3.3.12}%
+\contentsline {section}{\numberline {3.4}Cobertura de requisitos}{19}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Modelo de conceitos do domínio}{20}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Especificação Lógica}{22}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Modelo dinâmico}{23}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Funções de sistema}{23}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Validação de Credenciais }{23}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Registar Profissional}{24}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Introduzir novo utente}{24}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Alterar Ficha de Utente}{25}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.5}Agendamento de Consultas }{25}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.6}Passar Justificação}{26}{subsection.6.1.6}%
+\contentsline {subsection}{\numberline {6.1.7}Criar Receita}{26}{subsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.1.8}Alterar Relatório Médico do Utente }{27}{subsection.6.1.8}%
+\contentsline {subsection}{\numberline {6.1.9}Consultar Relatório Médico do Utente }{27}{subsection.6.1.9}%
+\contentsline {subsection}{\numberline {6.1.10}Consultar Ficha de Utente }{28}{subsection.6.1.10}%
+\contentsline {subsection}{\numberline {6.1.11}Adicionar Exames}{28}{subsection.6.1.11}%
+\contentsline {subsection}{\numberline {6.1.12}Administrar Medicação }{29}{subsection.6.1.12}%
+\contentsline {section}{\numberline {6.2}Colaborações entre objetos }{29}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Modelo de dados persistente}{30}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Implementação Base de Dados}{31}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Código e Design}{33}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Programação}{33}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Planeamento}{33}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Preparação}{33}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}Desenvolvimento}{33}{subsection.9.1.3}%
+\contentsline {section}{\numberline {9.2}Design Gráfico}{34}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Testes de Robusteza}{35}{section.9.3}%
+\contentsline {chapter}{\numberline {10}Conclusões}{36}{chapter.10}%
